@@ -1,0 +1,8 @@
+pandas==2.*
+numpy==1.*
+matplotlib==3.*
+seaborn==0.13.*
+plotly==5.*
+ipywidgets==8.*
+jupyter==1.*
+notebook==7.*
